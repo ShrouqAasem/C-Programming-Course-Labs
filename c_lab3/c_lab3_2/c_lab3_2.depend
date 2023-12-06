@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1584205420 source:e:\iti_work\c_labs\c_lab2\c_lab3_2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1667650776 source:e:\iti_work\c_labs\c_lab3\c_lab3_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1667650776 source:e:\iti_work\c_labs\c_lab3old\c_lab3_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
